@@ -1,4 +1,4 @@
-from student_exeptions import StudentNameError, InvalidSubjectError, InvalidScoreError
+from AdvancedPython.lesson13.student_exeptions import StudentNameError, InvalidSubjectError, InvalidScoreError
 import csv
 
 
